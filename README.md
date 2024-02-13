@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dave-Leslie-Wilkinson and I value loyalty, curiosity and lateral thinking. 
+- 👋 Hi, I’m @Dave-Leslie-Wilkinson 
 - 👀 I’m interested in culture, reading, rock climbing and skiing.
-- 🌱 I’m currently learning more Javascript and Python.
+- 🌱 I’m currently learning more Python.
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 Reach me at davelesliewilkinson@gmail.com
 
